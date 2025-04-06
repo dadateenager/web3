@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number",
+						"type": "uint256"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"经典用例/7.ReadingandWriting.sol": "readandwrite"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"经典用例/7.ReadingandWriting.sol": {
+			"keccak256": "0x9b4c1471c7d787424add9b5fec58016ac5145aeccc3766f3c590509bc7f7234e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3e291f3f8938d714f6fa57ed6da8db90b41741d89181ea2d76de697299f00b20",
+				"dweb:/ipfs/QmQ71yBpVaSeUnHFECENLMhsbiaGPj7jTKfPNxk5a4U2M2"
+			]
+		}
+	},
+	"version": 1
+}

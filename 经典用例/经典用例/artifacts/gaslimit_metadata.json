@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "forever",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"经典用例/9.gaslimit.sol": "gaslimit"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"经典用例/9.gaslimit.sol": {
+			"keccak256": "0xffb1be4e041424ec64b978a7dbfed8b1107603b30957b3fc8d917b9660a4805e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3498bc17ef077ccdd8d42c4c12fe9bee48a56abfb1834d602215c46ad952e9f5",
+				"dweb:/ipfs/QmUmEWf5tT7vabDtGMgGpDQkH39CZoukK6JA8MLfDA2D9P"
+			]
+		}
+	},
+	"version": 1
+}

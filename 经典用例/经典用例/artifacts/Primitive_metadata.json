@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "f",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"经典用例/3.Primitive.sol": "Primitive"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"经典用例/3.Primitive.sol": {
+			"keccak256": "0x001a82e828f9b608fd96a8d1c9d9f869724df6661aaea9e6e13944accbd46f73",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7d3b05f0ed96f508f9a194a0b788e33429edfca9afc1553ff350fcf9fc8ec306",
+				"dweb:/ipfs/QmRf6zVT3mWqcEVASNexXzQXGnrj9iL77DvGR5mNVkwhpj"
+			]
+		}
+	},
+	"version": 1
+}
